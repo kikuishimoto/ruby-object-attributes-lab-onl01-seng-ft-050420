@@ -1,15 +1,15 @@
-class Person 
-  def name 
-    @name 
-  end 
+class Person
+  def name
+    @name
+  end
   def name=(this_name)
-    @name = this_name 
-  end 
+    @name = this_name
+  end
 
-  def job 
+  def job
     @job
-  end 
+  end
   def job=(this_job)
-    @job = this_job 
-  end 
+    @job = this_job
+  end
 end
